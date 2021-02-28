@@ -1,3 +1,5 @@
+// For css prop support <elem css="font-weight: bold;" /> see:
+// https://github.com/DefinitelyTyped/DefinitelyTyped/issues/31245#issuecomment-449840301
 import 'styled-components'
 
 declare module 'styled-components' {
